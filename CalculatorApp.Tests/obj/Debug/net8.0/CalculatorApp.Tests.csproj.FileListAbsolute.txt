@@ -103,3 +103,4 @@ C:\Users\veerl\Desktop\TestD\CalculatorApp.Tests\obj\Debug\net8.0\refint\Calcula
 C:\Users\veerl\Desktop\TestD\CalculatorApp.Tests\obj\Debug\net8.0\CalculatorApp.Tests.pdb
 C:\Users\veerl\Desktop\TestD\CalculatorApp.Tests\obj\Debug\net8.0\CalculatorApp.Tests.genruntimeconfig.cache
 C:\Users\veerl\Desktop\TestD\CalculatorApp.Tests\obj\Debug\net8.0\ref\CalculatorApp.Tests.dll
+C:\Users\veerl\Desktop\TestD\CalculatorApp.Tests\obj\Debug\net8.0\CalculatorApp.Tests.sourcelink.json

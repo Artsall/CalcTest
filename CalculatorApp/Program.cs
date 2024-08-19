@@ -15,7 +15,7 @@ namespace CalculatorApp
             int b = int.Parse(Console.ReadLine());
 
             int result = calculator.Add(a, b);
-            Console.WriteLine($"Result: {result}");
+            Console.WriteLine($"Результат: {result}");
         }
     }
 }
