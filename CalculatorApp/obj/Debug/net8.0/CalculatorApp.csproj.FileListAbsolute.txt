@@ -1,0 +1,14 @@
+C:\Users\veerl\Desktop\TestD\CalculatorApp\bin\Debug\net8.0\CalculatorApp.exe
+C:\Users\veerl\Desktop\TestD\CalculatorApp\bin\Debug\net8.0\CalculatorApp.deps.json
+C:\Users\veerl\Desktop\TestD\CalculatorApp\bin\Debug\net8.0\CalculatorApp.runtimeconfig.json
+C:\Users\veerl\Desktop\TestD\CalculatorApp\bin\Debug\net8.0\CalculatorApp.dll
+C:\Users\veerl\Desktop\TestD\CalculatorApp\bin\Debug\net8.0\CalculatorApp.pdb
+C:\Users\veerl\Desktop\TestD\CalculatorApp\obj\Debug\net8.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veerl\Desktop\TestD\CalculatorApp\obj\Debug\net8.0\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\veerl\Desktop\TestD\CalculatorApp\obj\Debug\net8.0\CalculatorApp.AssemblyInfo.cs
+C:\Users\veerl\Desktop\TestD\CalculatorApp\obj\Debug\net8.0\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\veerl\Desktop\TestD\CalculatorApp\obj\Debug\net8.0\CalculatorApp.dll
+C:\Users\veerl\Desktop\TestD\CalculatorApp\obj\Debug\net8.0\refint\CalculatorApp.dll
+C:\Users\veerl\Desktop\TestD\CalculatorApp\obj\Debug\net8.0\CalculatorApp.pdb
+C:\Users\veerl\Desktop\TestD\CalculatorApp\obj\Debug\net8.0\CalculatorApp.genruntimeconfig.cache
+C:\Users\veerl\Desktop\TestD\CalculatorApp\obj\Debug\net8.0\ref\CalculatorApp.dll
